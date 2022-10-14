@@ -28,6 +28,9 @@ instafollowback.py -i /path/to/following.html -e /path/to/followers.html
 ```
 The script will print the account names that are not following back.
 
+# Output
+![image](output.png)
+
 # Help
 
 ```
