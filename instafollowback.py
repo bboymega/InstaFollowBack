@@ -31,4 +31,4 @@ for follower_account_raw in follower_list:
 print("------ACCOUNTS NOT FOLLOWING BACK (USERNAME)------\n")
 for account_check in following_list_stored:
     if account_check not in follower_list_stored:
-        print(account_check)
+        print("https://instagram.com/"+account_check)
