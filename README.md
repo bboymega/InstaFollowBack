@@ -8,9 +8,6 @@ It use local HTML file dumped from Instagram "Request Download" instead of direc
 1) Log in your Instagram account with browser
 2) Go to Settings > Privacy and Security > Data Download > Request Download
 
-<img src="a0.png" alt="a0" width="200"/>
-<img src="a1.png" alt="a1" width="200"/>
-
 3) Unzip the dumped File and navigate to followers_and_following.
 ```
 followers.html
