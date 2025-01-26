@@ -3,7 +3,9 @@ Checking Accounts that are not following back on Instagram with account dumped f
 
 It use local HTML file dumped from Instagram "Request Download" instead of direct loggin the account to avoid getting banned.
 
-# To use this script a local copy of Instagram account data is required. Here's the step of dumping your account data in HTML format.
+# To use this script a local copy of Instagram account data is required. 
+
+Here's the step of dumping your account data in HTML format.
 
 1) Log in your Instagram account with browser
 2) Go to Settings > Privacy and Security > Data Download > Request Download
