@@ -42,6 +42,8 @@ optional arguments:
                         Followers List Html Dump
 ```
 # Disclaimer 
-This project runs offline and does not collect, store, or share personal information from Instagram users without their consent. Any use of Instagram’s content (such as images, text, or other media) is subject to Instagram’s Terms of Service and Community Guidelines. Users are responsible for ensuring their use of the platform complies with these terms.
-This project is not affiliated with, endorsed by, or in any way officially connected to Instagram, Inc., or any of its subsidiaries or affiliates. Instagram® is a registered trademark of Meta Platforms, Inc. All trademarks, service marks, and trade names are the property of their respective owners.
-This project is intended solely for educational, informational, or entertainment purposes. It is not intended for commercial use unless explicitly stated otherwise. Any commercial use is at your own risk and should comply with Instagram’s terms and applicable laws.
+FollowBack runs completely offline and does not collect, store, or share personal information from Instagram users without their consent. Any use of Instagram’s content (such as images, text, or other media) is subject to Instagram’s Terms of Service and Community Guidelines. Users are responsible for ensuring their use of the platform complies with these terms.
+
+FollowBack is not affiliated with, endorsed by, or in any way officially connected to Instagram, Inc., or any of its subsidiaries or affiliates. Instagram® is a registered trademark of Meta Platforms, Inc. All trademarks, service marks, and trade names are the property of their respective owners.
+
+FollowBack is intended solely for educational, informational, or entertainment purposes. It is not intended for commercial use unless explicitly stated otherwise. Any commercial use is at your own risk and should comply with Instagram’s terms and applicable laws.
